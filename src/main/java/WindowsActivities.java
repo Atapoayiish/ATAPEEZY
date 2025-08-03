@@ -18,4 +18,8 @@ public class WindowsActivities {
     //I have used this project to practice github and git demos
     //And so lets see the changes that would be made
     //it's a collaboration which we all know
+    //Now more updates have to be made so we
+    //can see if clearly we are moving ahead with our
+    //GitHub stuff
+
 }
