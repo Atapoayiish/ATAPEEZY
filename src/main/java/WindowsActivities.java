@@ -11,8 +11,11 @@ public class WindowsActivities {
         driver.get("http://google.com");
         driver.navigate().to("https://rahulshettyacademy.com");
         driver.navigate().back();
+        driver.close();
 
 
     }
-
+    //I have used this project to practice github and git demos
+    //And so lets see the changes that would be made
+    //it's a collaboration which we all know
 }
